@@ -1,0 +1,15 @@
+DataSource:
+  mySQLUsername: Username
+  mySQLDatabase: Database
+  mySQLPort: 3306
+  mySQLHost: localhost
+  mySQLPassword: 12345
+  mySQLSource: file
+
+Plugin:
+  achievments: true
+
+Update:
+  checker: true
+   
+Config-version: 1.0 

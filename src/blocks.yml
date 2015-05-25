@@ -1,0 +1,30 @@
+STONE:
+   exp: 1
+   vip: 5
+DIAMOND_ORE:
+   exp: 14
+   vip: 19
+EMERALD_ORE:
+   exp: 20
+   vip: 25
+REDSTONE_ORE:
+   exp: 6
+   vip: 11
+LAPIS_ORE:
+   exp: 4
+   vip: 9
+IRON_ORE:
+   exp: 7
+   vip: 12
+GOLD_ORE:
+   exp: 9
+   vip: 14
+COAL_ORE:
+   exp: 3
+   vip: 8
+SANDSTONE:
+   exp: 1
+   vip: 5
+QUARTZ_ORE:
+   exp: 10
+   vip: 15

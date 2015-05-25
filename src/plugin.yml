@@ -1,0 +1,52 @@
+name: MinerTech
+main: com.dom133.minertech.MinerTech
+version: 0.0.1
+
+permissions:
+    mt.*:
+        description: Daje dostep do wszystkich komend
+        children:
+           mt.reset: true
+           mt.help: true
+           mt.exp: true
+           mt.addlvl: true
+           mt.addlvl.player: true
+           mt.reset.player: true
+           mt.vip: true
+           mt.stats: true
+           mt.stats.player: true
+    mt.reset:
+        description: Daje dostep do resetowania swoich statystyk
+        default: op
+    mt.help:
+        description: Daje dostep do komendy help
+        default: true
+    mt.exp:
+        description: Daje mozliwosc zdobywania leveli
+        default: true
+    mt.addlvl:
+        description: Daje mozliwosc dodania levelu
+        default: op
+    mt.addlvl.player:
+        description: Daje mozliwosc dodania levelu innemu graczowi
+        default: op
+    mt.reset.player:
+        description: Daje mozliwosc restartowania statystyk danego gracza
+        default: op
+    mt.vip:
+        description: Rzeczy dla vip
+        default: op
+    mt.stats:
+        description: Sprawdzanie statystyk
+        default: true    
+    mt.stats.player:
+        description: Sprawdzanie statystyk danego gracza
+        default: op             
+
+commands:
+   mt:
+      description: Core command for MinerTech
+      usage: /mt
+   minertech:
+      description: Core command for MinerTech
+      usage: /mt 

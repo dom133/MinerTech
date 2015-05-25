@@ -1,0 +1,61 @@
+Levels:
+   1:
+     max: 500
+     reward: 263
+     value: 32
+     vip_reward: 14
+     vip_value: 32
+   2:
+     max: 2500
+     reward: 45
+     value: 64
+     vip_reward: 29
+     vip_value: 10
+   3:
+     max: 4500
+     reward: 159
+     value: 64
+     vip_reward: 35
+     vip_value: 64
+   4:
+     max: 6500
+     reward: 352
+     value: 8
+     vip_reward: 41
+     vip_value: 10
+   5:
+     max: 8500
+     reward: 352
+     value: 32
+     vip_reward: 57
+     vip_value: 1
+   6:
+     max: 10500
+     reward: 145
+     value: 1
+     vip_reward: 89
+     vip_value: 64
+   7:
+     max: 12500
+     reward: 368
+     value: 8
+     vip_reward: 116
+     vip_value: 1
+   8:
+     max: 14500
+     reward: 373
+     value: 2
+     vip_reward: 117
+     vip_value: 1
+   9:
+     max: 16500
+     reward: 264
+     value: 6
+     vip_reward: 419
+     vip_value: 1
+   10:
+     max: 18500
+     reward: 310
+     value: 1
+     vip_reward: 399
+     vip_value: 1
